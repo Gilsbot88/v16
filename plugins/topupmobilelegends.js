@@ -3,7 +3,7 @@ const topupmobilelegends = (prefix) => {
 *PILIH DIBAWAH YA!!!*
 *LIST DM ML*
 *NO ILEGAL 100%*
-2.500 = 3💎
+2.500 = 8💎
 5.500 = 12💎
 10.500 = 28💎
 12.500 = 36💎
@@ -21,7 +21,7 @@ const topupmobilelegends = (prefix) => {
 1.600.900 = 6050💎
 Starlight Member = 240.400
 Starlight Prem = 350.300
-*minat? hub :* http://wa.me/${nomorowner}
+*minat? hub :* http://wa.me/${6283136890848}
 `
 }
 
