@@ -1,8 +1,8 @@
 const rules = (prefix) => { 
 	return `
-*RULES BAGI PENGGUNA ${namabot}*
+*RULES BAGI PENGGUNA ${Ragil Bot}*
     
-➤ Tolong Gunakan Delay Jangan Spam Saat Menggunakan Bot, Mentang Mentang Gratis Diborong semua.
+➤ Tolong Gunakan dengan baik dan Jangan Spam Saat Menggunakan Bot, Mentang Mentang Gratis Diborong semua.
 ➤ Call/VC Bot Auto Block.
 ➤ Jangan Call/VC Bot Kalau Tidak aktif.
 ➤ Bot tidak aktif 24 jam, jadi tergantung kalau ownernya lagi ada waktu botnya juga on.
