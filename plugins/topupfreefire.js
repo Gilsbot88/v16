@@ -18,7 +18,7 @@ const topupfreefire = (prefix) => {
 1.050.100 = 17280💎
 *MM* : 29.300
 *MB*  : 141.600
-*minat? hub :* http://wa.me/${nomorowner}
+*minat? hub :* http://wa.me/${6283136890848}
 `
 }
 
