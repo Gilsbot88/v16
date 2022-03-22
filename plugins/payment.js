@@ -1,13 +1,13 @@
 const payment = (prefix) => { 
 	return `• *PAYMENT*
-*GOPAY :* ${gopay}
-*DANA :* ${dana}
-*OVO :* ${ovo}
-*PULSA :* ${pulsa}
-*QRIS :* ${linkqris}
-*SAWERIA :* ${saweria}
-*LINK TREE :* ${linktree}
-*MINAT HUBUNGI : ${nomorowner}
+*GOPAY :* ${081318910218}
+*DANA :* ${083136890848}
+*OVO :* ${Belum tersedia kak}
+*PULSA :* ${083136890848}
+*QRIS :* ${Belum tersedia kak}
+*SAWERIA :* ${Belum tersedia kak}
+*LINK TREE :* ${Belum tersedia kak}
+*MINAT HUBUNGI : ${083136890848}
 `
 }
 
