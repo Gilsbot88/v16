@@ -4,8 +4,8 @@ const iklan = () => {
 ║
 ╠═══════════════════════════
 ╠➥ *DAFTAR SEWA & BUAT BOT :*
-╠➥ *SEWA : 10K/GRUP (BULAN)*
-╠➥ *BUAT : 35K (BISA JADI OWNER)*
+╠➥ *SEWA : 20K/GRUP (BULAN)*
+╠➥ *BUAT : 45K (BISA JADI OWNER)*
 ╠➥ *PEMBAYARAN BISA MELALUI :*
 ╠➥ *GOPAY, DANA, PULSA,TRAKTEER*
 ╠═══════════════════════════
@@ -16,9 +16,9 @@ const iklan = () => {
 ╠═══════════════════════════
 ╠➥ *JIKA MINAT IKLAN DIATAS*
 ╠➥ *HARAP HUBUNGI NOMOR DIBAWAH :*
-╠➥ *wa.me/6289512545999*
+╠➥ *wa.me/6283136890848*
 ║
-╚═〘  ${namabot} 〙✪══
+╚═〘  ${RAGIL BOT} 〙✪══
 `
 }
 exports.iklan = iklan
